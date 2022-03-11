@@ -4,7 +4,7 @@
     height: 100vh;
     background-image: url('./assets/background.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:  100% 100%;
   } 
 }
 
@@ -12,8 +12,8 @@
   .background {
     width: 100vw;
     height: 100vh;
-    /* background-image: url('./assets/backgroundMobile.png'); */
+    background-image: url('./assets/backgroundMobile.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
   }
 }

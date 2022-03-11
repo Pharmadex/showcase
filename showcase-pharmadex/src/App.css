@@ -1,0 +1,19 @@
+@media screen and (min-width: 1024px) {
+  .background {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assets/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+}
+
+@media screen and (max-width: 1023px) {
+  .background {
+    width: 100vw;
+    height: 100vh;
+    /* background-image: url('./assets/backgroundMobile.png'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
